@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 11, 2017 9:14 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.28
+WORDPRESS:	4.8.3
+PHP INFO:	5.5.38 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (1536M default) 
+MEMORY STACK: 17.25MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20171111_firstblog_ee1f1523487cc3bf6453171111211438_database.sql 
+SQL FILE SIZE: 568.04KB (581668) 
+SQL FILE TIME: 2017-11-11 21:14:56 
+SQL RUNTIME: 0.30 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/OpenServer/domains/FirstBlog 
+ARCHIVE FILE: 20171111_firstblog_ee1f1523487cc3bf6453171111211438_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	38.86MB 
+STATS:	Dirs 462 | Files 3,533 
+SQL ADDED: 20171111_firstblog_ee1f1523487cc3bf6453171111211438_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3995
+    [filename] => C:\OpenServer\domains\FirstBlog\wp-snapshots\tmp\20171111_firstblog_ee1f1523487cc3bf6453171111211438_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 23.26MB 
+ARCHIVE RUNTIME: 16.40 sec. 
+MEMORY STACK: 18.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [C:/OpenServer/domains/FirstBlog/wp-snapshots/tmp/20171111_firstblog_ee1f1523487cc3bf6453171111211438_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 568.04KB 
+Installer File: 442.88KB 
+Archive File: 23.26MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 17.71 sec.
+PEAK PHP MEMORY USED: 21.5MB
+DONE PROCESSING => 20171111_firstblog November 11, 2017 9:15 pm
+ 

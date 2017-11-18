@@ -7,6 +7,9 @@ if ( have_posts() ) :
 	while ( have_posts() ) : the_post(); 
 	?>
 		<article <?php omega_attr( 'post' ); ?>><div class="entry-wrap">
+                <?php if( get_field('count_persons') ): ?>
+                    <h5>Count persons : <?php the_field('count_persons'); ?></h5>
+                <?php endif; ?>
 			<?php 
 			do_action( 'omega_before_entry' ); 
 			do_action( 'omega_entry' );
